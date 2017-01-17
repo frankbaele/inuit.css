@@ -1,6 +1,5 @@
-# [OUR LITTLE INUIT HAS MOVED INTO A BIGGER IGLOO](https://github.com/inuitcss)
+# [INUITCSS HAS MOVED TO A BIGGER IGLOO](https://github.com/inuitcss)
 
-**Please head to [github.com/inuitcss](https://github.com/inuitcss) to play with
-the new, improved version of inuitcss.**
+**Please head to [github.com/inuitcss](https://github.com/inuitcss)**
 
 ![inuit.css](http://inuitcss.com/img/logo.png)
